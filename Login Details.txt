@@ -1,0 +1,10 @@
+Default Admin:
+
+Username: admin
+Password: admin123
+
+
+Default Teacher:
+
+Username: teacher1
+Password: pass123
